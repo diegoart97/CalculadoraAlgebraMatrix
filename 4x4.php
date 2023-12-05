@@ -142,7 +142,7 @@ $total5=$x1*$total1;
 $total6=$x2*$total22;
 $total7=$x3*$total3;
 $total8=$x4*$total44;
-
+// end
 $total9=$total5+$total6+$total7+$total8;
 echo 'determinante = ';
 echo $total9;
