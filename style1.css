@@ -1,0 +1,35 @@
+.val1{
+    width: 70px;
+    margin-left: 20px;
+}
+.val{
+    width: 70px;
+    margin-left: 20px;
+}
+.vetor{
+    width: 170px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 30px;
+    border:solid;
+    border-radius: 10px;
+    background: #D3D3D3;
+}
+.d1{
+    margin-left: 30px;
+    background: #D3D3D3; 
+    border:solid;
+    border-radius: 10px;
+    padding: 5px;
+    width: 90%;
+}
+.matriz{
+    width: 170px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 30px;
+    border:solid;
+    border-radius: 10px;
+    background: #D3D3D3;
+
+}
